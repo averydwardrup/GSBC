@@ -1,0 +1,106 @@
+/*
+ Theme Name:   GSB
+ Author:       Avery Wardrup
+ Author URI:   averywardrup.me
+ Template:     illdy
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ Text Domain:  gsb
+*/
+
+#header .bottom-header {
+    padding-top: 90px;
+}
+
+#header .bottom-header h1 {
+    text-shadow: 3px 3px 3px #000;
+}
+
+#header .top-header .header-logo {
+    font-size: 28px;
+    text-transform: uppercase;
+    /*margin-top: 15px;*/
+}
+
+.home .front-page-section .section-header h3{
+  display: none;
+}
+
+/*#about{
+    padding: 0 !important;
+}*/
+
+h1 {
+  font-size: 1.7em;
+  line-height: 2em;
+  text-transform: uppercase;
+}
+
+h2 {
+    font-size: 1.3em;
+    line-height: 1.5em;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+p {
+    font-size: 1em;
+}
+
+.front-page-section .section-header {
+    margin-bottom: 0;
+}
+
+#about, #static-page-content {
+    text-align: left;
+}
+
+.is-sticky .logo {
+    max-height: 30px;
+}
+.logo {
+    max-height: 45px;
+    width: auto;
+    margin-top: 20px;
+}
+
+#services .section-content .service {
+    background: rgba(00,00,00,.75);
+    padding: 25px;
+}
+
+#services .section-content .service:hover, #header .is-sticky .top-header:hover{
+  background: rgba(00,00,00, 1);
+}
+
+#header .is-sticky .top-header {
+    background-color: rgba(00,00,00,.75);
+}
+
+#services .section-header .section-description {
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #333;
+}
+
+#header .bottom-header span.span-dot, #contact-us .section-content .contact-us-box .box-left, #header .top-header .header-navigation ul li a:hover, .markup-format a {
+    color: #CC0000;
+}
+
+#header .bottom-header .header-button-two, #comments #respond .comment-form #input-submit, input[type=submit] {
+    background: #CC0000;
+}
+
+#header .bottom-header .header-button-two:hover, #comments #respond .comment-form #input-submit, input[type=submit]:hover{
+	background: #FF0000;
+}
+
+footer a:hover, footer li a:hover, footer li:hover, footer li:before, footer a:active, footer a:visited{
+	color: #CC0000 !important;
+}
+
+#blog .blog-post .blog-post-meta .post-meta-author, #blog .blog-post .blog-post-meta .post-meta-author .fa, #blog .blog-post .blog-post-meta .post-meta-time .fa, #blog .blog-post .blog-post-meta .post-meta-categories .fa, #blog .blog-post .blog-post-meta .post-meta-comments .fa{
+	color: #CC0000;
+}
+
+
