@@ -15,6 +15,6 @@
   <li>Auto create a post when a facebook live video starts</li>
   <li>Add more videos and images throughout website</li>
   <li>Create camp meeting page with newsletter sign up</li>
-  <li>Generate more traffic with more content</li>
+  <li>Generate more traffic with more content and videos</li>
  </ul>
   
