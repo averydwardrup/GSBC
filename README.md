@@ -3,7 +3,7 @@
 <ul>
   <li>Bootstrap theme with child theme for Wordpress</li>
   <li>Wrote quite a bit of the content</li>
-  <li>Used best practices when creating child theme<li>
+  <li>Used best practices when creating child theme</li>
   <li>Responsive design</li>
   <li>Still managing new posts and features.</li>
   <li>Uses events calendar</li>
