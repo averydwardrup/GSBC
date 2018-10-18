@@ -9,7 +9,7 @@
   <li>Uses events calendar</li>
 </ul>
 
-<h3>To-Do</li>
+<h3>To-Do</h3>
 <ul>
   <li>Auto-Post events to Facebook</li>
   <li>Auto create a post when a facebook live video starts</li>
